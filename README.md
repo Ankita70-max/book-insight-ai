@@ -200,14 +200,6 @@ Set `LLM_PROVIDER=anthropic` or `LLM_PROVIDER=openai` accordingly.
 
 **AI/ML:** RAG pipeline, vector embeddings, semantic search, LLM-powered answers
 
----
-
-## 📁 Submission
-
-- GitHub repo: [add your repo link]
-- README included ✅
-- API documentation: see table above ✅
-- Screenshots: run the app and take screenshots of each page ✅
 
 ---
 
@@ -221,5 +213,3 @@ Set `LLM_PROVIDER=anthropic` or `LLM_PROVIDER=openai` accordingly.
 - ✅ Semantic chunking with overlap
 - ✅ Error handling throughout
 
-
-## Screenshots

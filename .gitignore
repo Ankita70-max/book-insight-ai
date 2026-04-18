@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Django
+*.sqlite3
+/backend/media/
+/backend/staticfiles/
+/backend/chroma_db/
+
+# Environment
+.env
+!.env.example
+
+# Node
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
